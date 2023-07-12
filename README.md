@@ -1,7 +1,7 @@
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 Используемые технологии: Html, CSS, Javascript, Git.
-Ссылка на GitHub Pages website: https://gremelya.github.io/js-cp-diploma-edited/hall.html
+Ссылка на GitHub Pages website: https://gremelya.github.io/js-cp-diploma-edited/index.html
 
 ## Создание «информационной системы для предварительного бронирования билетов».
 
